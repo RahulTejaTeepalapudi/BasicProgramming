@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookOfPotionMaking", "BookO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Duration", "Duration\Duration.csproj", "{A25A8AA9-9DEC-4563-96DF-459731003A1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ladderophilia", "Ladderophilia\Ladderophilia.csproj", "{C309E1E7-E752-442A-9B20-5D1B7EF012FB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,10 @@ Global
 		{A25A8AA9-9DEC-4563-96DF-459731003A1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A25A8AA9-9DEC-4563-96DF-459731003A1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A25A8AA9-9DEC-4563-96DF-459731003A1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C309E1E7-E752-442A-9B20-5D1B7EF012FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C309E1E7-E752-442A-9B20-5D1B7EF012FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C309E1E7-E752-442A-9B20-5D1B7EF012FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C309E1E7-E752-442A-9B20-5D1B7EF012FB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -51,6 +57,7 @@ Global
 		{8BDE1AE5-0863-4B78-954B-29E470F618C0} = {5CD24718-A612-4250-BD38-6C053E83A644}
 		{15FC04E2-7748-4249-A8BC-F896D2EDF9FC} = {5CD24718-A612-4250-BD38-6C053E83A644}
 		{A25A8AA9-9DEC-4563-96DF-459731003A1C} = {5CD24718-A612-4250-BD38-6C053E83A644}
+		{C309E1E7-E752-442A-9B20-5D1B7EF012FB} = {5CD24718-A612-4250-BD38-6C053E83A644}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {DF4DAD84-793C-4178-B13B-C14B4699B750}
